@@ -7,3 +7,9 @@ the C# application works without any issues
 tried from both Visual Studio 2019 (check **visual-studio** file) and dotnet core command line (check **dotnet-info** file)
 
 
+To run just try
+```
+dotnet run -p CSContractsRepro;dotnet run -p FSContractsRepro
+```
+
+![screenshot](./Annotation-2020-02-24-184018.png)
